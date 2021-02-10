@@ -1,0 +1,7 @@
+print("Ko Wah")
+print("Htoo!")
+print("Gordon Institute of TAFE")
+print("Boundary Rd")
+print("East Geelong")
+print("Phone :")
+print("52250959")
