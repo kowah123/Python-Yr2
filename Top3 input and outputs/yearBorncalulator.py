@@ -5,7 +5,5 @@
 # collect age input from user 
 
 age = int(input("enter your age: "))
-print("your age is {0}".format(age))
-
 yearBorn = 2021 - age
 print("your age is {0} and your were born in {1} ".format(age,yearBorn))
